@@ -1,0 +1,35 @@
+
+{
+  "specs": [
+    {
+      "title": "AnonCreds Specification V2.0",
+      "spec_directory": "./spec",
+      "output_path": "./docs",
+      "markdown_paths": [
+        "header.md",
+        "abstract.md",
+        "status_copyright_toc.md",
+        "introduction.md",
+        "requirements_notations_conventions.md",
+        "terminology.md",
+        "anoncreds_methods.md",
+        "crypto.md",
+        "anoncreds_conventions.md",
+        "iana_considerations.md",
+        "security_considerations.md",
+        "privacy_considerations.md",
+        "normative_references.md",
+        "informative_references.md",
+        "acknowledgements_authors.md"
+      ],
+      "logo": "https://raw.githubusercontent.com/hyperledger/anoncreds-spec-v2/main/spec/images/logo/hl_anoncreds_colour.svg",
+      "logo_link": "https://github.com/hyperledger/anoncreds-spec-v2",
+      "katex": true,
+      "source": {
+        "host": "github",
+        "account": "hyperledger",
+        "repo": "anoncreds-spec-v2"
+      }
+    }
+  ]
+}
