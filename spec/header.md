@@ -5,7 +5,7 @@ AnonCreds Specification
 
 **Latest Draft:**
 
-[https://github.com/hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec-v2)
+[https://github.com/anoncreds/anoncreds-spec-v2](https://github.com/anoncreds/anoncreds-spec-v2)
 
 **Editors:**
 
@@ -19,8 +19,8 @@ AnonCreds Specification
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/hyperledger/anoncreds-spec-v2)
-~ [Commit history](https://github.com/hyperledger/anoncreds-spec-v2/commits/main)
+~ [GitHub repo](https://github.com/anoncreds/anoncreds-spec-v2)
+~ [Commit history](https://github.com/anoncreds/anoncreds-spec-v2/commits/main)
 ~ [Discord](https://discord.gg/hyperledger), `anoncreds-v2` channel.
 
 ------------------------------------
