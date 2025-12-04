@@ -22,12 +22,12 @@
         "informative_references.md",
         "acknowledgements_authors.md"
       ],
-      "logo": "https://raw.githubusercontent.com/hyperledger/anoncreds-spec-v2/main/spec/images/logo/hl_anoncreds_colour.svg",
-      "logo_link": "https://github.com/hyperledger/anoncreds-spec-v2",
+      "logo": "https://raw.githubusercontent.com/anoncreds/anoncreds-spec-v2/main/spec/images/logo/hl_anoncreds_colour.svg",
+      "logo_link": "https://github.com/anoncreds/anoncreds-spec-v2",
       "katex": true,
       "source": {
         "host": "github",
-        "account": "hyperledger",
+        "account": "anoncreds",
         "repo": "anoncreds-spec-v2"
       }
     }
