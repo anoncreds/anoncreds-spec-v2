@@ -11,4 +11,4 @@ The goal of AnonCreds v1.0 is the definition of a ledger-agnostic specification 
 
 The goal of AnonCreds v2.0 is to retain and extend the privacy-preserving features of AnonCreds v1.0, while improving capabilities, performance, extensibility, and security.
 
-For more details on what AnonCreds are and how they work you can refer to the [_Anonymous credentials with type-3 revocation_ by Dmitry Khovratovisch, Michael Lodder and Cam Parra](https://github.com/hyperledger/anoncreds-spec/blob/main/spec/ursaAnonCreds.pdf) which is the compiled pdf from their [official TeX document](https://github.com/hyperledger/ursa-docs/tree/main/specs/anoncreds1) published under CC4.0 license.
+For more details on what AnonCreds are and how they work you can refer to the [_Anonymous credentials with type-3 revocation_ by Dmitry Khovratovisch, Michael Lodder and Cam Parra](https://github.com/anoncreds/anoncreds-spec/blob/main/spec/ursaAnonCreds.pdf) which is the compiled pdf from their [official TeX document](https://github.com/hyperledger/ursa-docs/tree/main/specs/anoncreds1) published under CC4.0 license.
